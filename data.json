@@ -1,7 +1,7 @@
 {
   "data": [
     {
-      "type": "follower",
+      "type": "followers",
       "normal": [
         {
           "qty": "10",
@@ -92,7 +92,7 @@
       ]
     },
     {
-      "type": "like",
+      "type": "likes",
       "normal": [
         {
           "qty": "10",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "type": "comment",
+      "type": "comments",
       "normal": [
         {
           "qty": "10",
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "type": "view",
+      "type": "views",
       "normal": [
         {
           "qty": "10",
