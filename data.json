@@ -5,89 +5,89 @@
       "normal": [
         {
           "qty": "10",
+          "discount": "2"
+        },
+        {
+          "qty": "50",
           "discount": "5"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "90",
+          "discount": "6"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "140",
+          "discount": "8"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "190",
+          "discount": "7"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "240",
+          "discount": "10"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "290",
+          "discount": "13"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "340",
+          "discount": "19"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "390",
+          "discount": "25"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "440",
+          "discount": "29"
         },
         {
-          "qty": "10",
-          "discount": "5"
-        },
-        {
-          "qty": "10",
-          "discount": "5"
+          "qty": "490",
+          "discount": "50"
         }
       ],
       "golden": [
         {
-          "qty": "10",
+          "qty": "100",
+          "discount": "3"
+        },
+        {
+          "qty": "150",
+          "discount": "9"
+        },
+        {
+          "qty": "200",
           "discount": "5"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "250",
+          "discount": "8"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "300",
+          "discount": "15"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "350",
+          "discount": "18"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "400",
+          "discount": "26"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "450",
+          "discount": "19"
         },
         {
-          "qty": "10",
-          "discount": "5"
+          "qty": "500",
+          "discount": "29"
         },
         {
-          "qty": "10",
-          "discount": "5"
-        },
-        {
-          "qty": "10",
-          "discount": "5"
-        },
-        {
-          "qty": "10",
-          "discount": "5"
+          "qty": "550",
+          "discount": "35"
         }
       ]
     },
