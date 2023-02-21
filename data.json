@@ -92,7 +92,7 @@
       ]
     },
     {
-      "type": "likes",
+      "type": "like",
       "normal": [
         {
           "qty": "10",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "type": "comments",
+      "type": "comment",
       "normal": [
         {
           "qty": "10",
@@ -274,7 +274,7 @@
       ]
     },
     {
-      "type": "views",
+      "type": "view",
       "normal": [
         {
           "qty": "10",
