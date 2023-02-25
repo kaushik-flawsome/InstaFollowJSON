@@ -4,89 +4,89 @@
       "type": "follower",
       "normal": [
         {
-          "qty": "10",
+          "qty": "100000",
           "discount": "2"
         },
         {
-          "qty": "50",
+          "qty": "50000",
           "discount": "5"
         },
         {
-          "qty": "90",
+          "qty": "90000",
           "discount": "6"
         },
         {
-          "qty": "140",
+          "qty": "140000",
           "discount": "8"
         },
         {
-          "qty": "190",
+          "qty": "190000",
           "discount": "7"
         },
         {
-          "qty": "240",
+          "qty": "240000",
           "discount": "10"
         },
         {
-          "qty": "290",
+          "qty": "290000",
           "discount": "13"
         },
         {
-          "qty": "340",
+          "qty": "340000",
           "discount": "19"
         },
         {
-          "qty": "390",
+          "qty": "390000",
           "discount": "25"
         },
         {
-          "qty": "440",
+          "qty": "440000",
           "discount": "29"
         },
         {
-          "qty": "490",
+          "qty": "490000",
           "discount": "50"
         }
       ],
       "golden": [
         {
-          "qty": "100",
+          "qty": "10000",
           "discount": "3"
         },
         {
-          "qty": "150",
+          "qty": "15000",
           "discount": "9"
         },
         {
-          "qty": "200",
+          "qty": "20000",
           "discount": "5"
         },
         {
-          "qty": "250",
+          "qty": "25000",
           "discount": "8"
         },
         {
-          "qty": "300",
+          "qty": "30000",
           "discount": "15"
         },
         {
-          "qty": "350",
+          "qty": "35000",
           "discount": "18"
         },
         {
-          "qty": "400",
+          "qty": "40000",
           "discount": "26"
         },
         {
-          "qty": "450",
+          "qty": "45000",
           "discount": "19"
         },
         {
-          "qty": "500",
+          "qty": "50000",
           "discount": "29"
         },
         {
-          "qty": "550",
+          "qty": "55000",
           "discount": "35"
         }
       ]
