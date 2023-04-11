@@ -1,432 +1,460 @@
 {
-  "data": [
+  "base_url": "https://gamezoplay.com/api/v2",
+  "token": "272c8a38f0bc04b7c415975bbe47487cdf5c0f51f616703ecafbff88e34038ab",
+  "service_id": "➤Instagram Services [INDIA]",
+  "facebook_ads_id": "",
+  "services": [
     {
       "type": "follower",
-      "normal": [
-        {
-          "qty": "100000",
-          "discount": "2"
-        },
-        {
-          "qty": "50000",
-          "discount": "5"
-        },
-        {
-          "qty": "90000",
-          "discount": "6"
-        },
-        {
-          "qty": "140000",
-          "discount": "8"
-        },
-        {
-          "qty": "190000",
-          "discount": "7"
-        },
-        {
-          "qty": "240000",
-          "discount": "10"
-        },
-        {
-          "qty": "290000",
-          "discount": "13"
-        },
-        {
-          "qty": "340000",
-          "discount": "19"
-        },
-        {
-          "qty": "390000",
-          "discount": "25"
-        },
-        {
-          "qty": "440000",
-          "discount": "29"
-        },
-        {
-          "qty": "490000",
-          "discount": "50"
-        },
-        {
-          "qty": "490000",
-          "discount": "50"
-        },
-        {
-          "qty": "490000",
-          "discount": "50"
-        }
-      ],
-      "golden": [
-        {
-          "qty": "10000",
-          "discount": "3"
-        },
-        {
-          "qty": "15000",
-          "discount": "9"
-        },
-        {
-          "qty": "20000",
-          "discount": "5"
-        },
-        {
-          "qty": "25000",
-          "discount": "8"
-        },
-        {
-          "qty": "30000",
-          "discount": "15"
-        },
-        {
-          "qty": "35000",
-          "discount": "18"
-        },
-        {
-          "qty": "40000",
-          "discount": "26"
-        },
-        {
-          "qty": "45000",
-          "discount": "19"
-        },
-        {
-          "qty": "50000",
-          "discount": "29"
-        },
-        {
-          "qty": "55000",
-          "discount": "35"
-        },
-        {
-          "qty": "55000",
-          "discount": "35"
-        },
-        {
-          "qty": "55000",
-          "discount": "35"
-        }
-      ]
+      "normal_follower": {
+        "service_id": "IG Followers [Mixed Indian]",
+        "data": [
+          {
+            "qty": "100000",
+            "discount": "2"
+          },
+          {
+            "qty": "50000",
+            "discount": "5"
+          },
+          {
+            "qty": "90000",
+            "discount": "6"
+          },
+          {
+            "qty": "140000",
+            "discount": "8"
+          },
+          {
+            "qty": "190000",
+            "discount": "7"
+          },
+          {
+            "qty": "240000",
+            "discount": "10"
+          },
+          {
+            "qty": "290000",
+            "discount": "13"
+          },
+          {
+            "qty": "340000",
+            "discount": "19"
+          },
+          {
+            "qty": "390000",
+            "discount": "25"
+          },
+          {
+            "qty": "440000",
+            "discount": "29"
+          },
+          {
+            "qty": "490000",
+            "discount": "50"
+          },
+          {
+            "qty": "490000",
+            "discount": "50"
+          },
+          {
+            "qty": "490000",
+            "discount": "50"
+          }
+        ]
+      },
+      "golden_follower": {
+        "service_id": "Indian Followers Real [30 Days Refill]",
+        "data": [
+          {
+            "qty": "10000",
+            "discount": "3"
+          },
+          {
+            "qty": "15000",
+            "discount": "9"
+          },
+          {
+            "qty": "20000",
+            "discount": "5"
+          },
+          {
+            "qty": "25000",
+            "discount": "8"
+          },
+          {
+            "qty": "30000",
+            "discount": "15"
+          },
+          {
+            "qty": "35000",
+            "discount": "18"
+          },
+          {
+            "qty": "40000",
+            "discount": "26"
+          },
+          {
+            "qty": "45000",
+            "discount": "19"
+          },
+          {
+            "qty": "50000",
+            "discount": "29"
+          },
+          {
+            "qty": "55000",
+            "discount": "35"
+          },
+          {
+            "qty": "55000",
+            "discount": "35"
+          },
+          {
+            "qty": "55000",
+            "discount": "35"
+          }
+        ]
+      }
     },
     {
       "type": "like",
-      "normal": [
-        {
-          "qty": "1000",
-          "discount": "5"
-        },
-        {
-          "qty": "2500",
-          "discount": "15"
-        },
-        {
-          "qty": "3900",
-          "discount": "18"
-        },
-        {
-          "qty": "4200",
-          "discount": "19"
-        },
-        {
-          "qty": "4900",
-          "discount": "19"
-        },
-        {
-          "qty": "5599",
-          "discount": "25"
-        },
-        {
-          "qty": "6999",
-          "discount": "29"
-        },
-        {
-          "qty": "7899",
-          "discount": "28"
-        },
-        {
-          "qty": "8999",
-          "discount": "30"
-        },
-        {
-          "qty": "10999",
-          "discount": "35"
-        },
-        {
-          "qty": "11898",
-          "discount": "50"
-        },
-        {
-          "qty": "11898",
-          "discount": "50"
-        },
-        {
-          "qty": "11898",
-          "discount": "50"
-        }
-      ],
-      "golden": [
-        {
-          "qty": "999",
-          "discount": "5"
-        },
-        {
-          "qty": "1499",
-          "discount": "8"
-        },
-        {
-          "qty": "1899",
-          "discount": "10"
-        },
-        {
-          "qty": "2399",
-          "discount": "12"
-        },
-        {
-          "qty": "2799",
-          "discount": "15"
-        },
-        {
-          "qty": "3399",
-          "discount": "18"
-        },
-        {
-          "qty": "4599",
-          "discount": "18"
-        },
-        {
-          "qty": "5099",
-          "discount": "25"
-        },
-        {
-          "qty": "5599",
-          "discount": "29"
-        },
-        {
-          "qty": "6099",
-          "discount": "35"
-        },
-        {
-          "qty": "6099",
-          "discount": "35"
-        },
-        {
-          "qty": "6099",
-          "discount": "35"
-        }
-      ]
+      "normal_like": {
+        "service_id": "➤Instagram Services [INDIA]",
+        "data": [
+          {
+            "qty": "1000",
+            "discount": "5"
+          },
+          {
+            "qty": "2500",
+            "discount": "15"
+          },
+          {
+            "qty": "3900",
+            "discount": "18"
+          },
+          {
+            "qty": "4200",
+            "discount": "19"
+          },
+          {
+            "qty": "4900",
+            "discount": "19"
+          },
+          {
+            "qty": "5599",
+            "discount": "25"
+          },
+          {
+            "qty": "6999",
+            "discount": "29"
+          },
+          {
+            "qty": "7899",
+            "discount": "28"
+          },
+          {
+            "qty": "8999",
+            "discount": "30"
+          },
+          {
+            "qty": "10999",
+            "discount": "35"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          }
+        ]
+      },
+      "golden_like": {
+        "service_id": "Indian Instagram Likes [Updated]",
+        "data": [
+          {
+            "qty": "999",
+            "discount": "5"
+          },
+          {
+            "qty": "1499",
+            "discount": "8"
+          },
+          {
+            "qty": "1899",
+            "discount": "10"
+          },
+          {
+            "qty": "2399",
+            "discount": "12"
+          },
+          {
+            "qty": "2799",
+            "discount": "15"
+          },
+          {
+            "qty": "3399",
+            "discount": "18"
+          },
+          {
+            "qty": "4599",
+            "discount": "18"
+          },
+          {
+            "qty": "5099",
+            "discount": "25"
+          },
+          {
+            "qty": "5599",
+            "discount": "29"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          }
+        ]
+      }
     },
     {
       "type": "comment",
-      "normal": [
-        {
-          "qty": "49",
-          "discount": "5"
-        },
-        {
-          "qty": "99",
-          "discount": "6"
-        },
-        {
-          "qty": "149",
-          "discount": "9"
-        },
-        {
-          "qty": "199",
-          "discount": "12"
-        },
-        {
-          "qty": "249",
-          "discount": "16"
-        },
-        {
-          "qty": "299",
-          "discount": "18"
-        },
-        {
-          "qty": "349",
-          "discount": "20"
-        },
-        {
-          "qty": "399",
-          "discount": "25"
-        },
-        {
-          "qty": "459",
-          "discount": "28"
-        },
-        {
-          "qty": "599",
-          "discount": "30"
-        },
-        {
-          "qty": "649",
-          "discount": "50"
-        },
-        {
-          "qty": "649",
-          "discount": "50"
-        },
-        {
-          "qty": "649",
-          "discount": "50"
-        }
-      ],
-      "golden": [
-        {
-          "qty": "122",
-          "discount": "2"
-        },
-        {
-          "qty": "222",
-          "discount": "5"
-        },
-        {
-          "qty": "323",
-          "discount": "7"
-        },
-        {
-          "qty": "425",
-          "discount": "12"
-        },
-        {
-          "qty": "523",
-          "discount": "15"
-        },
-        {
-          "qty": "636",
-          "discount": "19"
-        },
-        {
-          "qty": "758",
-          "discount": "25"
-        },
-        {
-          "qty": "896",
-          "discount": "30"
-        },
-        {
-          "qty": "969",
-          "discount": "39"
-        },
-        {
-          "qty": "1089",
-          "discount": "50"
-        },
-        {
-          "qty": "1089",
-          "discount": "50"
-        },
-        {
-          "qty": "1089",
-          "discount": "50"
-        }
-      ]
+      "normal_comment": {
+        "service_id": "Instagram Comments Indian [Custom Rapid]",
+        "data": [
+          {
+            "qty": "1000",
+            "discount": "5"
+          },
+          {
+            "qty": "2500",
+            "discount": "15"
+          },
+          {
+            "qty": "3900",
+            "discount": "18"
+          },
+          {
+            "qty": "4200",
+            "discount": "19"
+          },
+          {
+            "qty": "4900",
+            "discount": "19"
+          },
+          {
+            "qty": "5599",
+            "discount": "25"
+          },
+          {
+            "qty": "6999",
+            "discount": "29"
+          },
+          {
+            "qty": "7899",
+            "discount": "28"
+          },
+          {
+            "qty": "8999",
+            "discount": "30"
+          },
+          {
+            "qty": "10999",
+            "discount": "35"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          }
+        ]
+      },
+      "golden_comment": {
+        "service_id": "IG Comments Random [India]",
+        "data": [
+          {
+            "qty": "999",
+            "discount": "5"
+          },
+          {
+            "qty": "1499",
+            "discount": "8"
+          },
+          {
+            "qty": "1899",
+            "discount": "10"
+          },
+          {
+            "qty": "2399",
+            "discount": "12"
+          },
+          {
+            "qty": "2799",
+            "discount": "15"
+          },
+          {
+            "qty": "3399",
+            "discount": "18"
+          },
+          {
+            "qty": "4599",
+            "discount": "18"
+          },
+          {
+            "qty": "5099",
+            "discount": "25"
+          },
+          {
+            "qty": "5599",
+            "discount": "29"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          }
+        ]
+      }
     },
     {
       "type": "view",
-      "normal": [
-        {
-          "qty": "100",
-          "discount": "5"
-        },
-        {
-          "qty": "200",
-          "discount": "6"
-        },
-        {
-          "qty": "300",
-          "discount": "8"
-        },
-        {
-          "qty": "400",
-          "discount": "12"
-        },
-        {
-          "qty": "500",
-          "discount": "15"
-        },
-        {
-          "qty": "600",
-          "discount": "16"
-        },
-        {
-          "qty": "700",
-          "discount": "28"
-        },
-        {
-          "qty": "800",
-          "discount": "35"
-        },
-        {
-          "qty": "900",
-          "discount": "53"
-        },
-        {
-          "qty": "1000",
-          "discount": "60"
-        },
-        {
-          "qty": "1100",
-          "discount": "70"
-        },
-        {
-          "qty": "1100",
-          "discount": "70"
-        },
-        {
-          "qty": "1100",
-          "discount": "70"
-        }
-      ],
-      "golden": [
-        {
-          "qty": "199",
-          "discount": "5"
-        },
-        {
-          "qty": "299",
-          "discount": "9"
-        },
-        {
-          "qty": "399",
-          "discount": "15"
-        },
-        {
-          "qty": "499",
-          "discount": "16"
-        },
-        {
-          "qty": "599",
-          "discount": "19"
-        },
-        {
-          "qty": "699",
-          "discount": "25"
-        },
-        {
-          "qty": "799",
-          "discount": "28"
-        },
-        {
-          "qty": "899",
-          "discount": "35"
-        },
-        {
-          "qty": "999",
-          "discount": "40"
-        },
-        {
-          "qty": "1099",
-          "discount": "45"
-        },
-        {
-          "qty": "1099",
-          "discount": "45"
-        },
-        {
-          "qty": "1099",
-          "discount": "45"
-        }
-      ]
+      "normal_view": {
+        "service_id": "Instagram Views [Reels Fast]",
+        "data": [
+          {
+            "qty": "1000",
+            "discount": "5"
+          },
+          {
+            "qty": "2500",
+            "discount": "15"
+          },
+          {
+            "qty": "3900",
+            "discount": "18"
+          },
+          {
+            "qty": "4200",
+            "discount": "19"
+          },
+          {
+            "qty": "4900",
+            "discount": "19"
+          },
+          {
+            "qty": "5599",
+            "discount": "25"
+          },
+          {
+            "qty": "6999",
+            "discount": "29"
+          },
+          {
+            "qty": "7899",
+            "discount": "28"
+          },
+          {
+            "qty": "8999",
+            "discount": "30"
+          },
+          {
+            "qty": "10999",
+            "discount": "35"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          },
+          {
+            "qty": "11898",
+            "discount": "50"
+          }
+        ]
+      },
+      "golden_view": {
+        "service_id": "IG Views Real For All [Instantly]",
+        "data": [
+          {
+            "qty": "999",
+            "discount": "5"
+          },
+          {
+            "qty": "1499",
+            "discount": "8"
+          },
+          {
+            "qty": "1899",
+            "discount": "10"
+          },
+          {
+            "qty": "2399",
+            "discount": "12"
+          },
+          {
+            "qty": "2799",
+            "discount": "15"
+          },
+          {
+            "qty": "3399",
+            "discount": "18"
+          },
+          {
+            "qty": "4599",
+            "discount": "18"
+          },
+          {
+            "qty": "5099",
+            "discount": "25"
+          },
+          {
+            "qty": "5599",
+            "discount": "29"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          },
+          {
+            "qty": "6099",
+            "discount": "35"
+          }
+        ]
+      }
     }
   ]
 }
