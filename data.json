@@ -6,7 +6,7 @@
   "services": [
     {
       "type": "follower",
-      "normal_follower": {
+      "normal": {
         "service_id": "IG Followers [Mixed Indian]",
         "data": [
           {
@@ -63,7 +63,7 @@
           }
         ]
       },
-      "golden_follower": {
+      "golden": {
         "service_id": "Indian Followers Real [30 Days Refill]",
         "data": [
           {
@@ -119,7 +119,7 @@
     },
     {
       "type": "like",
-      "normal_like": {
+      "normal": {
         "service_id": "➤Instagram Services [INDIA]",
         "data": [
           {
@@ -176,7 +176,7 @@
           }
         ]
       },
-      "golden_like": {
+      "golden": {
         "service_id": "Indian Instagram Likes [Updated]",
         "data": [
           {
@@ -232,7 +232,7 @@
     },
     {
       "type": "comment",
-      "normal_comment": {
+      "normal": {
         "service_id": "Instagram Comments Indian [Custom Rapid]",
         "data": [
           {
@@ -289,7 +289,7 @@
           }
         ]
       },
-      "golden_comment": {
+      "golden": {
         "service_id": "IG Comments Random [India]",
         "data": [
           {
@@ -345,7 +345,7 @@
     },
     {
       "type": "view",
-      "normal_view": {
+      "normal": {
         "service_id": "Instagram Views [Reels Fast]",
         "data": [
           {
@@ -402,7 +402,7 @@
           }
         ]
       },
-      "golden_view": {
+      "golden": {
         "service_id": "IG Views Real For All [Instantly]",
         "data": [
           {
