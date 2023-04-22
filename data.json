@@ -3,6 +3,7 @@
   "token": "272c8a38f0bc04b7c415975bbe47487cdf5c0f51f616703ecafbff88e34038ab",
   "service_id": "➤Instagram Services [INDIA]",
   "ads_variation": 0,
+  "ads_time_to_show": 1000,
   "services": [
     {
       "type": "follower",
