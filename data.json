@@ -476,7 +476,7 @@
   ],
   "privacy": [
     {
-      "heading_first": "General Policy",
+      "heading": "General Policy",
       "content": [
         "By placing an order with Socialbull.co, you automatically accept all the below listed terms of service whether you read them or not.",
         "We reserve the right to change these terms of service without notice. You are expected to read all terms of service before placing any order to insure you are up to date with any changes or any future changes.",
@@ -487,13 +487,13 @@
       ]
     },
     {
-      "heading_first": "Disclaimer",
+      "heading": "Disclaimer",
       "content": [
         "Socialbull.co will not be responsible for any damages you or your business may suffer."
       ]
     },
     {
-      "heading_first": "Liabilities",
+      "heading": "Liabilities",
       "content": [
         "Socialbull.co is in no way liable for any account suspension or picture deletion done by Instagram or Twitter or Facebook or YouTube or Other Social Media Platform."
       ]
