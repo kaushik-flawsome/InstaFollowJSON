@@ -1,6 +1,7 @@
 {
-  "base_url": "https://gamezoplay.com/api/v2",
-  "token": "272c8a38f0bc04b7c415975bbe47487cdf5c0f51f616703ecafbff88e34038ab",
+  "base_url": "https://groominsta.com/api/v2",
+  "private_url": "http://192.168.29.34:6100/api/v1/users/",
+  "token": "618faa0c7165e0aba0e95a9f5211d45753aa166e2f93c130b66e184517dddfc0",
   "service_id": "➤Instagram Services [INDIA]",
   "ads_variation": 0,
   "ads_time_to_show": 30,
