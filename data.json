@@ -6,7 +6,7 @@
   "ads_variation": 0,
   "ads_time_to_show": 30,
   "latest_app_version_code": "1",
-  "is_force_update": true,
+  "is_force_update": false,
   "allow_for_magic_app": true,
   "playstor_link": "https://play.google.com/store/apps/details?id=com.ifollower.android&hl=en_IN&gl=US",
   "services": [
